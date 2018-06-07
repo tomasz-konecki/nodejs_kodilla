@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_kodilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon files.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasz-konecki/nodejs_kodilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasz-konecki/nodejs_kodilla/issues"
+  },
+  "homepage": "https://github.com/tomasz-konecki/nodejs_kodilla#readme",
+  "dependencies": {
+    "stat-mode": "^0.2.2"
+  }
+}
